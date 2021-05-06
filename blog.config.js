@@ -2,7 +2,7 @@ const BLOG = {
   title: 'hhhhustlehard',
   author: 'chua',
   email: 'caicl34@163.com',
-  link: 'https://nobelium.vercel.app',
+  link: 'https://chuagoahead.vercel.app',
   description: 'This gonna be an awesome website.',
   lang: 'en-US',
   appearance: 'auto', // ['light', 'dark', 'auto'],
